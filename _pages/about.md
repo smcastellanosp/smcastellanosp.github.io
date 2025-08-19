@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: 
 
 profile:
   align: right
@@ -40,8 +40,3 @@ I also enjoy teaching — I have over 645 hours of teaching experience at Univer
 Beyond research, I am passionate about collaboration and supervision. I have co-supervised PhD and Master students on projects related to federated learning, human activity recognition, and AI planning for engineering and smart grids.
 
 📄 You can explore my publications and projects, or connect with me to discuss opportunities for collaboration.
-
-
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
