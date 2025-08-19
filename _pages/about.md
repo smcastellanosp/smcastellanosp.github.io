@@ -24,7 +24,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-👋 Welcome! Engineer and PhD in Computer Science and Artificial Intelligence, currently working as a Researcher at the Laboratoire d’Informatique de Grenoble (LIG) and the Laboratoire de Génie Électrique de Grenoble (G2Elab) in France.
+👋 Welcome!
+
+I'm an Engineer with a PhD in Computer Science and Artificial Intelligence, currently working as a Researcher at the Laboratoire d’Informatique de Grenoble (LIG) and the Laboratoire de Génie Électrique de Grenoble (G2Elab) in France.
 
 My research lies at the intersection of Artificial Intelligence, Machine Learning, and Automated Planning, with applications to smart power grids and autonomous decision-making systems.
 
@@ -39,4 +41,4 @@ I also enjoy teaching — I have over 645 hours of teaching experience at Univer
 
 Beyond research, I am passionate about collaboration and supervision. I have co-supervised PhD and Master students on projects related to federated learning, human activity recognition, and AI planning for engineering and smart grids.
 
-📄 You can explore my publications and projects, or connect with me to discuss opportunities for collaboration.
+📄 You can explore my publications or connect with me to discuss opportunities for collaboration.
